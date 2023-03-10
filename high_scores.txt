@@ -1,0 +1,7 @@
+110          TOJ       MATURE
+160          OTJ       CAREER
+110          OIJ       TISSUE
+130          KTC       SCREEN
+150          KTC       STATUS
+130          KTC       VICTIM
+120          TOJ       FUTURE
